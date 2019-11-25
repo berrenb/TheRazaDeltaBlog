@@ -1,0 +1,2 @@
+# TheRazaDeltaBlog
+Repo for blog
